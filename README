@@ -1,0 +1,6 @@
+React + Flux + MongDB + Node.js
+
+Author git: https://github.com/krambertech/spa-webinar
+
+server :  babel-node ./server/app.js 
+client : npm run webpack-devserver
